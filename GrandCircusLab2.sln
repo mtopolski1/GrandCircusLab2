@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrandCircusLab2", "GrandCircusLab2\GrandCircusLab2.csproj", "{0A18BF46-269A-4FDD-B637-FCC59D7AF724}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A18BF46-269A-4FDD-B637-FCC59D7AF724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A18BF46-269A-4FDD-B637-FCC59D7AF724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A18BF46-269A-4FDD-B637-FCC59D7AF724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A18BF46-269A-4FDD-B637-FCC59D7AF724}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D84F5950-25AB-49B5-B4CF-513A4503F670}
+	EndGlobalSection
+EndGlobal
